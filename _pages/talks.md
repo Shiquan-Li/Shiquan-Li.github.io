@@ -7,4 +7,4 @@ redirect_from:
   - /talks.html
 ---
 
-* Seminar on Stochastic Processes 2026 (lightening talk & poster session), Union College, Schenectady, NY, March, 2026.
+* Seminar on Stochastic Processes 2026 (lightning talk & poster session), Union College, Schenectady, NY, March 2026.
