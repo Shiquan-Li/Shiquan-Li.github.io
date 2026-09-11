@@ -1,7 +1,7 @@
 ---
 permalink: /notes/
 title: "Notes"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /nt/
   - /notes.html
