@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in mathematics specializing in probability theory, with a primary research focus on stochastic partial differential equations.
+I am a PhD student in mathematics specializing in probability theory, with a primary research focus on stochastic partial differential equations.
 
 Email: sli159ATurDOTrochesterDOTedu
