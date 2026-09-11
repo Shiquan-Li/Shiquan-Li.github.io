@@ -23,5 +23,5 @@ main:
   - title: "Talks"
     url: /talks/   
     
-  - title: "Notes"
-    url: /notes/
+#  - title: "Notes"
+#    url: /notes/
