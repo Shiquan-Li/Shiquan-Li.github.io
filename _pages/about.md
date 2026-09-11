@@ -9,4 +9,4 @@ redirect_from:
 
 I am a PhD student in mathematics. I'm currently interested in probability theory, especially stochastic partial differential equations.
 
-Email: sli159@ur.rochester.edu
+Email: sli159ATurDOTrochesterDOTedu
