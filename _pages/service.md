@@ -1,12 +1,10 @@
 ---
 permalink: /
-title: "Shiquan Li"
+title: "Service"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Ph.D. student in mathematics specializing in probability theory, with a primary research focus on stochastic partial differential equations.
-
-Email: sli159ATurDOTrochesterDOTedu
+I'm coordinating Subgroup, an online peer network for first-year math grad students.
