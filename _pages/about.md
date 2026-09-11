@@ -1,0 +1,14 @@
+---
+permalink: /
+title: "Gefei Cai 蔡格非"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+I am a fourth-year PhD student from [Bejing International Center for Mathematical Research](https://bicmr.pku.edu.cn), [Peking University](https://english.pku.edu.cn). My research interests include probability theory, statistical mechanics and conformal field theory.
+
+You can find my CV here: [Gefei Cai's CV](https://github.com/Gefei-Cai/gefei-cai.github.io/raw/master/assets/Gefei_Cai_CV.pdf).
+
+Email: caigefei1107@gmail.com
