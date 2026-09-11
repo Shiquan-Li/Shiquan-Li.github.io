@@ -6,4 +6,4 @@ redirect_from:
   - /service.html
 ---
 
-I'm coordinating [Subgroup](https://gradsubgroups.org), an online peer network for first-year math graduate students.
+I'm coordinating [Subgroups](https://gradsubgroups.org), an online peer network for first-year math graduate students.
