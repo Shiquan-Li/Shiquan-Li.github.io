@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm coordinating Subgroup, an online peer network for first-year math grad students.
+I'm coordinating [Subgroup](https://gradsubgroups.org), an online peer network for first-year math grad students.
