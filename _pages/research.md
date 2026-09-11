@@ -4,7 +4,7 @@ layout: archive
 permalink: /research/
 author_profile: true
 redirect_from:
-  - /research
+  - /research/
 ---
 
 {% include base_path %}
