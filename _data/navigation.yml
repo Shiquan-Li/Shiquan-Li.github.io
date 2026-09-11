@@ -20,8 +20,11 @@ main:
   - title: "Research"
     url: /cv/
 
-  - title: "Talks"
+  - title: "Talk"
     url: /talks/   
     
 #  - title: "Notes"
 #    url: /notes/
+
+  - title: "Service"
+    url: /Service/
